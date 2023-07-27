@@ -17,6 +17,8 @@
 It was done with H2 database.
 You can check all the structures of the tables with the h2 console following the url - /h2-ui/.
 - initialize the data with data.sql.
+![image](https://github.com/stackdev37/Liam_Test/assets/105904959/2422de79-0eec-43bc-b70c-b8308f81f804)
+
 
 ### Unit Test
 Implemented with Mockito
