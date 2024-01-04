@@ -28,7 +28,7 @@ It is great to implement swagger.
 
 
 ### Contact
-It was developed by thomasr37oss@gmail.com. 
+It was developed by th37rose. 
 Please contact me if you would want my services and I am looking forward to hear your feedback soon. 
 
 
